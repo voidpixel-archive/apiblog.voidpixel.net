@@ -35,6 +35,7 @@ const getPostList = (): string[] => readdirSync(join(__dirname, 'posts/'));
 const getPost = (id: string): Post => {
     const postPath = `posts/${id}/`;
     const data = JSON.parse(readFileSync(join(__dirname, postPath, `data.json`)).toString()) as Post;
+    data.id = id;
     data.post = Object.values(Language).reduce((_data, languageId) => ({
         ..._data,
         [languageId]: {
@@ -51,26 +52,26 @@ const getPosts = (
     next: NextFunction
 ) => {
     res.send({
-        data: getPostList()
+        data: getPostList().map(postId => getPost(postId))
     });
 }
 
-const getPostById = (
-    req: Request,
-    res: Response,
-    next: NextFunction
-) => {
-    const { id } = req.params;
-    const postExists = getPostList().some(postId => postId === id);
-    if(!postExists) return res.sendStatus(404);
-
-    res.send({
-        data: getPost(id)
-    });
-}
+// const getPostById = (
+//     req: Request,
+//     res: Response,
+//     next: NextFunction
+// ) => {
+//     const { id } = req.params;
+//     const postExists = getPostList().some(postId => postId === id);
+//     if(!postExists) return res.sendStatus(404);
+//
+//     res.send({
+//         data: getPost(id)
+//     });
+// }
 
 api.get('/posts', getPosts);
-api.get('/post/:id', getPostById);
+// api.get('/post/:id', getPostById);
 
 const server = require('http').createServer(app);
 

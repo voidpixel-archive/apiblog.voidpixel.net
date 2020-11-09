@@ -5,6 +5,7 @@ export enum Language {
 }
 
 export type Post = {
+    id: string;
     date: number,
     author: string,
     cover: string,
