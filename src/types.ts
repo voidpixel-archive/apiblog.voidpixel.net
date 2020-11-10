@@ -1,7 +1,8 @@
 
 export enum Language {
     ES = 'es',
-    EN = 'en'
+    EN = 'en',
+    CAT = 'cat'
 }
 
 export type Post = {
@@ -11,7 +12,8 @@ export type Post = {
     cover: string,
     post: {
         [Language.EN]: PostTranslation,
-        [Language.ES]: PostTranslation
+        [Language.ES]: PostTranslation,
+        [Language.CAT]: PostTranslation
     }
 }
 
