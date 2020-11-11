@@ -77,6 +77,6 @@ const server = require('http').createServer(app);
 
 server.listen(
     process.env.PORT || 80,
-    'localhost',
+    process.env.HOSTNAME || 'localhost',
     () => console.log(`listening :${process.env.PORT}`)
 );
