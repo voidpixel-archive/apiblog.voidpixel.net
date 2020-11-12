@@ -35,3 +35,5 @@ About Chunks, there's clear problems with sending information of any player move
 As you can see on the image, the chunks are divided in 2D using 128 pixels for both width and height, even if the division is not isometric from the game's perspective. This is because image divisions are not practical when done isometrically, I did experiment with that method In the indev, but was a failure; The images would have to be rectangular.
 
 And that's that! This blog will get more updates, but for now. Thanks and welcome! :D
+
+*Corrected by [SmashyTomaty@github](https://github.com/SmashyTomaty)*
