@@ -1,0 +1,17 @@
+{
+  "date": 1605207861333,
+  "author": "pablo",
+  "cover": "https://media.discordapp.net/attachments/586914620451848234/776523391816433724/IMG_20201112_2005412.jpg",
+
+  "post": {
+    "en": {
+      "title": "Welcome to the blog!"
+    },
+    "es": {
+      "title": "¡Bienvenido al blog!"
+    },
+    "cat": {
+      "title": "Benvingut al blog!"
+    }
+  }
+}
