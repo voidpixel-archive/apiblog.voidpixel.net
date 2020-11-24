@@ -1,0 +1,17 @@
+{
+  "date": 1606255600225,
+  "author": "pablo",
+  "cover": "https://media.discordapp.net/attachments/586914620451848234/780919959252893737/IMG_20201124_231609.jpg",
+
+  "post": {
+    "en": {
+      "title": "Pathfinding magical numbers"
+    },
+    "es": {
+      "title": "Los numeros magicos del Pathfinding"
+    },
+    "cat": {
+      "title": "Els numeros màgics del Pathfinding"
+    }
+  }
+}
