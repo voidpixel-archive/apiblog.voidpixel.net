@@ -1,4 +1,4 @@
-### Onion layers
+### Pixels are like onions, they have layers
 The other day I wanted to fix a bug related to the character's movement,
 I threw myself into the fix until the very moment I discovered yet another bug, this time related to the pathfinding 
 on the server side, I wanted to fix it since it prevented me from fixing the other two problems 
