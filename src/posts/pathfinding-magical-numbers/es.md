@@ -75,4 +75,4 @@ To correct these positions regarding the initial point I was substracting **128*
 Someone may think this was an odd job, but consider that this was part of the experiments during the indev, when it all made sense but
 I just forgot to translate it to the new system, staying there as it was.
 
-*Translated by @PeopleNArthax*
+*Translated by [PeopleNArthax@github](https://github.com/peoplenarthax)*
