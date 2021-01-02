@@ -1,0 +1,17 @@
+{
+  "date": 1609602792183,
+  "author": "pablo",
+  "cover": "https://media.discordapp.net/attachments/586914620451848234/794956301608026153/IMG_20210102_1650422.jpg",
+
+  "post": {
+    "en": {
+      "title": "Entity Component System"
+    },
+    "es": {
+      "title": "Entidad Componente Sistema"
+    },
+    "cat": {
+      "title": "Entitat Component Sistema"
+    }
+  }
+}
