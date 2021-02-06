@@ -119,3 +119,5 @@ As you can see, I released the first Alpha Preview, technically called `alpha-pr
 The idea of an `alpha-preview` is to maintain a continuous flow of "playable" versions and to reach a version that accomplishes the minimum of the minimum. To reach that point, I will be making uploads of every change I make.
 
 Thank you again for the good reception of this release and thanks for reading this post and the others.
+
+*Translated by [lbotano@github](https://github.com/lbotano)*
