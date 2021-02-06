@@ -139,7 +139,7 @@ desde aquí, que s´´ perfectamente que no es así. Es como cuando sigues un gr
 y se hace popular, te da rabia que haya nuevos fans y que forme parte de la cultura popular
 y realmente tendría que ser al revés. 
 Os recomiendo escuchar esta canción, que precisamente habla de eso.
-[![https://www.youtube.com/watch?v=TGWy14hbIDc](https://cdn.discordapp.com/attachments/586914620451848234/807000489778085958/Screenshot_2021-02-04_at_22.31.32.png)](https://www.youtube.com/watch?v=gBhU2N_Yhhk)
+[![https://www.youtube.com/watch?v=TGWy14hbIDc](https://cdn.discordapp.com/attachments/586914620451848234/807000489778085958/Screenshot_2021-02-04_at_22.31.32.png)](https://www.youtube.com/watch?v=TGWy14hbIDc)
 
 La diferencia que creo que hay entre los grupos de música y este fenómeno de twitch es
 que aquí, como pasó en youtube, la gente puede llegar a hacerse popular y ganarse la vida,
