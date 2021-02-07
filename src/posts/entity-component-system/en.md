@@ -340,3 +340,5 @@ to make some progress.
 
 I hope this year I can release the **alpha 1**, but I believe that working at this speed,
 is very feasible.
+
+*Translated by [PeopleNArthax@github](https://github.com/peoplenarthax)*
