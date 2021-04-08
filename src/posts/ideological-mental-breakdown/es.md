@@ -1,7 +1,7 @@
 Tengo un problema, y es que muchas veces no me planteo problemas que son obvios, hasta que no me pego un buen golpe de realidad.
 
-Cuando empecé la definición del proyecto hace años, solo se me ocurria una copia barata de Minecraft. Obviamente, tenia mental breakdowns constantes, por no saber cual era el rumbo del juego. Estaba intentando hacer otro Sandbox, como otro de los millones de clones que han aparecido desde que se popularizó el maldito juego de los cubos.
-¿Pero para que hacer otro clon?
+Cuando empecé la definición del proyecto hace años, solo se me ocurría una copia barata de Minecraft. Obviamente, tenía mental breakdowns constantes, por no saber cual era el rumbo del juego. Estaba intentando hacer otro Sandbox, como otro de los millones de clones que han aparecido desde que se popularizó el maldito juego de los cubos.
+¿Pero para qué hacer otro clon?
 
 Al retomar el proyecto en 2019, decidí deshacer todas esas ideas y empezar fresco, empezar de cero con las ideas. En lugar de hacer un sandbox con generación procedural, que no me motivaba nada, iba a ser un MMORPG...
 ¿Y cuales son las implicaciones de hacer un MMORPG?
@@ -18,7 +18,7 @@ Durante estos años he aprendido mucho con sus reviews y la serie de historia de
 
 ### Ideological games
 
-**Ideological Games** lo descubrí por el RT de alguien en twitter, no recuerdo exactamente de quien, pero fué un gran descubrimiento para aprender más de la indsutria, vista desde una perspectiva ideológica y de género. Tiene testimonios de diferente gente metida en el conocimiento de la industria, recopilaciones y como la ideología de las últimas generaciones ha influido a la hora de hacer juegos. Como el capitalismo ha degenerado en algunas franquicias, como las guerras y el combate han centrado la atención de toda una industria.
+**Ideological Games** lo descubrí por el RT de alguien en twitter, no recuerdo exactamente de quien, pero fué un gran descubrimiento para aprender más de la industria, vista desde una perspectiva ideológica y de género. Tiene testimonios de diferente gente metida en el conocimiento de la industria, recopilaciones y como la ideología de las últimas generaciones ha influido a la hora de hacer juegos. Como el capitalismo ha degenerado en algunas franquicias, como las guerras y el combate han centrado la atención de toda una industria.
 Un buen libro para reflexionar sobre porque los videojuegos solo se centran un mismo tema.
 Siempre lo mismo.
 Matar.
@@ -61,9 +61,9 @@ Tengo que aclarar que no he jugado a **Animal Crossing** y que tampoco me he vic
 ### ¿De que va voidpixel?
 
 Aunque la clasificación de **MMORPG** es clara, debido a las circunstancias del juego, este, va a tener unas mecánicas parecidas a lo que yo hacia cuando jugaba a **Runescape**, sin la lucha, sin las batallas, sin toda la parte que no me interesaba lo más mínimo, sin la violencia.
-¿Un A**nimal Crossing** online?
+¿Un **Animal Crossing** online?
 No exactamente.
-¿Un S**tardew Valley** online masivo?
+¿Un **Stardew Valley** online masivo?
 Tampoco.
 
 Va a ser **voidpixel**.
