@@ -87,7 +87,7 @@ Lerna permite tener distintos proyectos de node bajo el mismo paraguas, de esta 
 
 Experimenté varios días con snowpack, pero la frustración y la sensación de días perdidos me pasó factura, teniendo que volver a webpack. Al final, conseguí arreglar los problemas de dependencias y anclar todas las versiones del proyecto para que no diera problemas a futuro.
 
-## Mapa y personaje
+## Mapa
 
 Al terminar las herramientas de administración, puede poner en marcha el nuevo mapa que había estado diseñando en paralelo, pero solo faltaba un detalle.
 
