@@ -1,15 +1,15 @@
 Tengo un problema, y es que muchas veces no me planteo problemas que son obvios, hasta que no me pego un buen golpe de realidad.
 
-Cuando empecé la definición del proyecto hace años, solo se me ocurría una copia barata de Minecraft. Obviamente, tenía mental breakdowns constantes, por no saber cual era el rumbo del juego. Estaba intentando hacer otro Sandbox, como otro de los millones de clones que han aparecido desde que se popularizó el maldito juego de los cubos.
+Cuando empecé la definición del proyecto hace años, solo se me ocurría una copia barata de Minecraft. Obviamente, tenía mental breakdowns constantes, por no saber cuál era el rumbo del juego. Estaba intentando hacer otro Sandbox, como otro de los millones de clones que han aparecido desde que se popularizó el maldito juego de los cubos.
 ¿Pero para qué hacer otro clon?
 
 Al retomar el proyecto en 2019, decidí deshacer todas esas ideas y empezar fresco, empezar de cero con las ideas. En lugar de hacer un sandbox con generación procedural, que no me motivaba nada, iba a ser un MMORPG...
-¿Y cuales son las implicaciones de hacer un MMORPG?
+¿Y cuáles son las implicaciones de hacer un MMORPG?
 
 Aprender a ser **pragmático**.
 
 Si lees a pequeños desarrolladores en internet, verás que la gran mayoría está intentando hacer un juego de este estilo, gente que ha jugado muchísimo al género (WoW, Runescape...) y lo único que quiere hacer es un clon de su juego favorito.
-Y volvemos a lo mismo, ¿Para que hacer un clon de un juego existente?
+Y volvemos a lo mismo: ¿Para que hacer un clon de un juego existente?
 
 ## La influencia de Ideological games & DayoScript
 
@@ -18,13 +18,13 @@ Durante estos años he aprendido mucho con sus reviews y la serie de historia de
 
 ### Ideological games
 
-**Ideological Games** lo descubrí por el RT de alguien en twitter, no recuerdo exactamente de quien, pero fué un gran descubrimiento para aprender más de la industria, vista desde una perspectiva ideológica y de género. Tiene testimonios de diferente gente metida en el conocimiento de la industria, recopilaciones y como la ideología de las últimas generaciones ha influido a la hora de hacer juegos. Como el capitalismo ha degenerado en algunas franquicias, como las guerras y el combate han centrado la atención de toda una industria.
-Un buen libro para reflexionar sobre porque los videojuegos solo se centran un mismo tema.
+**Ideological Games** lo descubrí por el RT de alguien en twitter, no recuerdo exactamente de quien, pero fue un gran descubrimiento para aprender más de la industria, vista desde una perspectiva ideológica y de género. Tiene testimonios de diferente gente metida en el conocimiento de la industria, recopilaciones y como la ideología de las últimas generaciones ha influido a la hora de hacer juegos. Como el capitalismo ha degenerado en algunas franquicias, como las guerras y el combate han centrado la atención de toda una industria.
+Un buen libro para reflexionar sobre por qué los videojuegos solo se centran un mismo tema.
 Siempre lo mismo.
 Matar.
-Como la cultura estadounidense empapa una industria entera. La cultura de las armas, las guerras...
+Cómo la cultura estadounidense empapa una industria entera. La cultura de las armas, las guerras...
 
-¿No resulta aburrido ya revivir una y otra vez las mismas guerras, las mismas armas, el PUTO DESEMBARCO DE NORMANDIA...?
+¿No resulta aburrido ya revivir una y otra vez las mismas guerras, las mismas armas, el PUTO DESEMBARCO DE NORMANDÍA...?
 
 **[heroesdepapel/139](https://www.heroesdepapel.es/product.php?id=139)
 
@@ -36,9 +36,9 @@ Al terminar el vídeo, mi cabeza hizo… **¡Crack!**
 
 **[youtube/dCM9RNBcWgs](https://www.youtube.com/watch?v=dCM9RNBcWgs)
 
-## ¿De que va voidpixel?
+## ¿De qué va voidpixel?
 
-Muy buena pregunta Mister Titulo. Ni idea.
+Muy buena pregunta, Mister Título. Ni idea.
 
 ### Tycoon, GTA y Runescape
 
@@ -46,21 +46,21 @@ No negaré que he jugado a juegos de disparos, me gustaban y me siguen gustando 
 
 Pero mi principal género siempre ha sido la **simulación**.
 
-He jugado a todos los tycoon posibles desde que tengo uso de la razón, allá por 1999, con cinco añitos y mi Pentium I. Tardaba 10 minutos en arrancar **Roller Coaster Tycoon** y en menos de una hora el ordenador moria y tenía que reiniciar. Recuerdo también un cd pirata de **Los Sims 1** tirado por la mesa. Y, aunque con los años he dejado de jugarlo, he seguido la saga de **GTA** desde el primer título.
+He jugado a todos los tycoon posibles desde que tengo uso de la razón, allá por 1999, con cinco añitos y mi Pentium I. Tardaba 10 minutos en arrancar **Roller Coaster Tycoon** y en menos de una hora el ordenador moría y tenía que reiniciar. Recuerdo también un CD pirata de **Los Sims 1** tirado por la mesa. Y, aunque con los años he dejado de jugarlo, he seguido la saga de **GTA** desde el primer título.
 
 Jugué también muchísimas horas de **Runescape**, pero no como uno imagina.
 **Runescape** es un MMORPG de navegador, puedes subir niveles e ir progresando por el mapa, haciendo ciertas misiones, matando a ciertos enemigos y subiendo más niveles, o puedes dedicarte a ir a minar, hacer armaduras, armas, venderlas, pescar…
-Estas eran las mecánicas que a mi me entretenían, me daba igual si podía luchar con no se quien o una misión de matar a no sé cuantos, me interesaban esas mecánicas.
+Estas eran las mecánicas que a mí me entretenían, me daba igual si podía luchar con no sé quién o una misión de matar a no sé cuántos, me interesaban esas mecánicas.
 
 ### Stardew Valley y Animal Crossing
 
-Tengo que aclarar que no he jugado a **Animal Crossing** y que tampoco me he viciado a **Stardew Valley**, aunque si que he jugado alguna que otra hora.
+Tengo que aclarar que no he jugado a **Animal Crossing** y que tampoco me he viciado a **Stardew Valley**, aunque sí que he jugado alguna que otra hora.
 -	**Animal Crossing** me ha llamado desde que salió, pero nunca me lo compré y nunca lo jugué. Un juego cuyas mecánicas sencillas se originaron debido a recortes de presupuesto y que ha conseguido triunfar en un sector fuera de esa violencia dentro de los videojuegos más conocidos.
 -	**Stardew Valley**, fuera de tener dinámicas sencillas, también tiene esa sencillez y esa no violencia que permite que cualquier persona pueda disfrutar del juego.
 
 ### ¿De que va voidpixel?
 
-Aunque la clasificación de **MMORPG** es clara, debido a las circunstancias del juego, este, va a tener unas mecánicas parecidas a lo que yo hacia cuando jugaba a **Runescape**, sin la lucha, sin las batallas, sin toda la parte que no me interesaba lo más mínimo, sin la violencia.
+Aunque la clasificación de **MMORPG** es clara, debido a las circunstancias del juego, este, va a tener unas mecánicas parecidas a lo que yo hacía cuando jugaba a **Runescape**, sin la lucha, sin las batallas, sin toda la parte que no me interesaba lo más mínimo, sin la violencia.
 ¿Un **Animal Crossing** online?
 No exactamente.
 ¿Un **Stardew Valley** online masivo?
